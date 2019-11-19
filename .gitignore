@@ -1,0 +1,8 @@
+# All ignore
+*
+
+# Except
+!.gitlab-ci.yml
+!.gitignore
+!Dockerfile
+!README.md
